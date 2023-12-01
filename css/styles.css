@@ -74,17 +74,16 @@ h1 {
   background-color: #4d5ae5;
   color: #ffffff;
   text-align: center;
+  letter-spacing: 0.04em;
   font-family: 'Roboto', sans-serif;
   font-weight: 500;
   line-height: 1.5;
-  letter-spacing: 0.04;
 }
 
 .button:hover,
 .button:focus {
   background-color: #404bbf;
   cursor: pointer;
-  letter-spacing: 0.04;
 }
 
 .team {
@@ -106,12 +105,16 @@ h2 {
 }
 
 h3 {
+  color: #2e2f42;
   font-size: 20px;
   font-weight: 500;
   line-height: 1.2;
   letter-spacing: 0.4px;
 }
 
+.team-foto {
+  background-color: #ffffff;
+}
 .portfolio {
   line-height: 1.11;
 }
@@ -133,4 +136,8 @@ p {
 
 ul {
   list-style-type: none;
+}
+
+.footer-p {
+  color: #f4f4fd;
 }
