@@ -46,6 +46,7 @@ body {
 }
 
 .address-link {
+  color: #434455;
   font-style: normal;
   font-weight: 500;
   letter-spacing: 0.32px;
@@ -83,6 +84,7 @@ h1 {
 .button:focus {
   background-color: #404bbf;
   cursor: pointer;
+  letter-spacing: 0.04;
 }
 
 .team {
@@ -95,9 +97,10 @@ h1 {
 }
 
 h2 {
+  color: #2e2f42;
   font-size: 36px;
   font-weight: 700;
-  line-height: 1.67;
+  line-height: 1.11;
   letter-spacing: 0.72px;
   text-transform: capitalize;
 }
@@ -116,6 +119,7 @@ h3 {
 .portfolio-foto {
   background-color: #ffffff;
 }
+
 .footer {
   background-color: #2e2f42;
   line-height: 1.17;
