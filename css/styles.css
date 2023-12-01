@@ -45,9 +45,12 @@ body {
   color: #404bbf;
 }
 
+address {
+  font-style: normal;
+}
 .address-link {
   color: #434455;
-  font-style: normal;
+
   font-weight: 500;
   letter-spacing: 0.32px;
 }
