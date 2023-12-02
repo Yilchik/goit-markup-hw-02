@@ -2,8 +2,6 @@ body {
   font-family: 'Roboto', sans-serif;
   color: #434455;
   background-color: #fff;
-  font-weight: 400;
-  line-height: 1.5;
 }
 
 .logo {
@@ -50,8 +48,6 @@ address {
 }
 .address-link {
   color: #434455;
-
-  font-weight: 500;
   letter-spacing: 0.32px;
 }
 
@@ -133,6 +129,24 @@ h3 {
 
 p {
   font-size: 16px;
+}
+
+.feature-p {
+  line-height: 1.5;
+  letter-spacing: 0.32px;
+}
+
+.team-p {
+  line-height: 1.5;
+  letter-spacing: 0.32px;
+}
+
+.portfolio-p {
+  line-height: 1.5;
+  letter-spacing: 0.32px;
+}
+
+.footer-p {
   line-height: 1.5;
   letter-spacing: 0.32px;
 }
